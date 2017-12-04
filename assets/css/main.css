@@ -1,0 +1,74 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+	color: #FFF;
+}
+header{
+	background-color: #FA8C58;
+	padding-right: 2em;
+}
+header h1{
+	font-size: 2em;
+	font-weight: bolder;
+	margin-bottom: 0;
+}
+header p{
+	margin-top: 0;
+	padding-bottom: 1em;
+}
+.img-panda-one{
+	height: 450px;
+	background-image: url(../img/uno.jpg);
+	background-size: cover;
+	background-position: 50% 50%;
+	filter: grayscale(100%);
+}
+.about-panda-container{
+	background-color: #a5df78;
+	border-top: 15px solid #FA8C58;
+	border-bottom: 15px solid #FA8C58;
+}
+.about-panda-text-div{
+	background-color: #FA8C58;
+	text-align: center;
+	margin: 2em;
+}
+.about-title{
+	font-size: 1.5em;
+	font-weight: 800;
+}
+.img-panda-two{
+	height: 600px;
+	background-image: url(../img/dos.jpg);
+	background-size: cover;
+  background-position: 50% 20%;
+	filter: grayscale(100%);
+}
+.pictures-container{
+	background-color: #a5df78;
+	border-top: 15px solid #FA8C58;
+	border-bottom: 15px solid #FA8C58;
+}
+.pictures-container img{
+	border: 10px solid #FFF;
+	margin-bottom: 1em;
+}
+.pictures-title{
+	font-size: 2.5em;
+  font-weight: 800;
+}
+.img-panda-three{
+  height: 600px;
+  background-image: url(../img/tres.jpg);
+  background-size: cover;
+  background-position: 50% 20%;
+  filter: grayscale(100%);
+}
+footer{
+  background-color: #FA8C58;
+  text-align: right;
+  font-weight: bolder;
+  padding-right: 2em;
+}
+.row-clear{
+	margin: 0;
+}
